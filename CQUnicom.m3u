@@ -198,7 +198,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV家庭剧场.png" group-title="NewTV系列",NewTV家庭剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV怡伴健康.png" group-title="NewTV系列",NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NEWTV怡伴健康.png" group-title="NewTV系列",NewTV怡伴健康
 http://39.135.55.105:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV惊悚悬疑.png" group-title="NewTV系列",NewTV惊悚悬疑
 http://39.135.55.105:6610/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
