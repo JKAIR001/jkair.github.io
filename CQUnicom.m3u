@@ -186,37 +186,37 @@ http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱Y+.png" group-title="iHOT系列",iHOT Y+频道
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV中国功夫.png" group-title="NewTV系列",NewTV中国功夫
 http://39.135.55.105:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV军事评论.png" group-title="NewTV系列",NewTV军事评论
 http://39.135.55.105:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV军旅剧场.png" group-title="NewTV系列",NewTV军旅剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV动作电影.png" group-title="NewTV系列",NewTV动作电影
 http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV古装剧场.png" group-title="NewTV系列",NewTV古装剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV家庭剧场.png" group-title="NewTV系列",NewTV家庭剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV怡伴健康.png" group-title="NewTV系列",NewTV怡伴健康
 http://39.135.55.105:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV惊悚悬疑.png" group-title="NewTV系列",NewTV惊悚悬疑
 http://39.135.55.105:6610/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV明星大片.png" group-title="NewTV系列",NewTV明星大片
 http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV武博世界.png" group-title="NewTV系列",NewTV武搏世界
 http://39.135.55.105:6610/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV潮妈辣婆.png" group-title="NewTV系列",NewTV潮妈辣婆
 http://39.135.55.105:6610/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV爱情喜剧.png" group-title="NewTV系列",NewTV爱情喜剧
 http://39.135.55.105:6610/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品体育.png" group-title="NewTV系列",NewTV精品体育
 http://39.135.55.105:6610/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品大剧.png" group-title="NewTV系列",NewTV精品大剧
 http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品记录.png" group-title="NewTV系列",NewTV精品纪录
 http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV金牌综艺.png" group-title="NewTV系列",NewTV金牌综艺
 http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
 
 
