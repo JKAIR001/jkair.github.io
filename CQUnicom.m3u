@@ -123,7 +123,7 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 #http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影专区",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="电影专区",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/黑莓电影.png" group-title="电影专区",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱院线.png" group-title="iHOT系列",iHOT爱院线
