@@ -252,7 +252,7 @@ http://192.168.2.4:1231/rtp/225.0.4.190:7980
 http://192.168.2.4:1231/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV娱乐高清
 http://192.168.2.4:1231/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV汽摩高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/重庆汽摩频道.png" group-title="重庆本地",CQTV汽摩高清
 http://192.168.2.4:1231/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV生活高清
 http://192.168.2.4:1231/rtp/225.0.4.197:7980
