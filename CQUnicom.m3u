@@ -8,6 +8,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/纯享4K超高清.png" group-title="4K专区",纯享4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/北京4K超清IPTV.png" group-title="北京IPTV",北京IPTV4K超清
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/北京IPTV萌宠TV.png" group-title="北京IPTV",北京IPTV萌宠TV
@@ -139,96 +140,96 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/黑莓电影.png" group-title="电影专区",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱院线.png" group-title="iHOT系列",iHOT爱院线
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱院线.png" group-title="iHOT系列",iHOT爱院线
 http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱科幻.png" group-title="iHOT系列",iHOT爱科幻
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱科幻.png" group-title="iHOT系列",iHOT爱科幻
 http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱浪漫.png" group-title="iHOT系列",iHOT爱浪漫
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱浪漫.png" group-title="iHOT系列",iHOT爱浪漫
 http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱喜剧.png" group-title="iHOT系列",iHOT爱喜剧
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱喜剧.png" group-title="iHOT系列",iHOT爱喜剧
 http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱悬疑.png" group-title="iHOT系列",iHOT爱悬疑
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱悬疑.png" group-title="iHOT系列",iHOT爱悬疑
 http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱经典.png" group-title="iHOT系列",iHOT爱经典
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱经典.png" group-title="iHOT系列",iHOT爱经典
 http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱江湖.png" group-title="iHOT系列",iHOT爱江湖
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱江湖.png" group-title="iHOT系列",iHOT爱江湖
 http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱赛车.png" group-title="iHOT系列",iHOT爱赛车
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱赛车.png" group-title="iHOT系列",iHOT爱赛车
 http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱体育.png" group-title="iHOT系列",iHOT爱体育
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱体育.png" group-title="iHOT系列",iHOT爱体育
 http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱探索.png" group-title="iHOT系列",iHOT爱探索
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱探索.png" group-title="iHOT系列",iHOT爱探索
 http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱奇谈.png" group-title="iHOT系列",iHOT爱奇谈
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱奇谈.png" group-title="iHOT系列",iHOT爱奇谈
 http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱玩具.png" group-title="iHOT系列",iHOT爱玩具
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱玩具.png" group-title="iHOT系列",iHOT爱玩具
 http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱世界.png" group-title="iHOT系列",iHOT爱世界
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱世界.png" group-title="iHOT系列",iHOT爱世界
 http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱怀旧.png" group-title="iHOT系列",iHOT爱怀旧
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱怀旧.png" group-title="iHOT系列",iHOT爱怀旧
 http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱旅行.png" group-title="iHOT系列",iHOT爱旅行
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱旅行.png" group-title="iHOT系列",iHOT爱旅行
 http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱极限.png" group-title="iHOT系列",iHOT爱极限
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱极限.png" group-title="iHOT系列",iHOT爱极限
 http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱幼教.png" group-title="iHOT系列",iHOT爱幼教
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱幼教.png" group-title="iHOT系列",iHOT爱幼教
 http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱解密.png" group-title="iHOT系列",iHOT爱解密
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱解密.png" group-title="iHOT系列",iHOT爱解密
 http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱谍战.png" group-title="iHOT系列",iHOT爱谍战
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱谍战.png" group-title="iHOT系列",iHOT爱谍战
 http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱历史.png" group-title="iHOT系列",iHOT爱历史
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱历史.png" group-title="iHOT系列",iHOT爱历史
 http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱猎奇.png" group-title="iHOT系列",iHOT爱猎奇
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱猎奇.png" group-title="iHOT系列",iHOT爱猎奇
 http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:- tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱都市.png" group-title="iHOT系列",iHOT爱都市
+#EXTINF:- tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱都市.png" group-title="iHOT系列",iHOT爱都市
 http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱科学.png" group-title="iHOT系列",iHOT爱科学
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱科学.png" group-title="iHOT系列",iHOT爱科学
 http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱美食.png" group-title="iHOT系列",iHOT爱美食
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱美食.png" group-title="iHOT系列",iHOT爱美食
 http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱时尚.png" group-title="iHOT系列",iHOT爱时尚
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱时尚.png" group-title="iHOT系列",iHOT爱时尚
 http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱青春.png" group-title="iHOT系列",iHOT爱青春
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱青春.png" group-title="iHOT系列",iHOT爱青春
 http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱家庭.png" group-title="iHOT系列",iHOT爱家庭
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱家庭.png" group-title="iHOT系列",iHOT爱家庭
 http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱动漫.png" group-title="iHOT系列",iHOT爱动漫
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱动漫.png" group-title="iHOT系列",iHOT爱动漫
 http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱Y+.png" group-title="iHOT系列",iHOT Y+频道
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/IHOT-爱Y+.png" group-title="iHOT系列",iHOT Y+频道
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV中国功夫.png" group-title="NewTV系列",NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV中国功夫.png" group-title="NewTV系列",NewTV中国功夫
 http://39.135.55.105:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV军事评论.png" group-title="NewTV系列",NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV军事评论.png" group-title="NewTV系列",NewTV军事评论
 http://39.135.55.105:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV军旅剧场.png" group-title="NewTV系列",NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV军旅剧场.png" group-title="NewTV系列",NewTV军旅剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV动作电影.png" group-title="NewTV系列",NewTV动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV动作电影.png" group-title="NewTV系列",NewTV动作电影
 http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV古装剧场.png" group-title="NewTV系列",NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV古装剧场.png" group-title="NewTV系列",NewTV古装剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV家庭剧场.png" group-title="NewTV系列",NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV家庭剧场.png" group-title="NewTV系列",NewTV家庭剧场
 http://39.135.55.105:6610/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NEWTV怡伴健康.png" group-title="NewTV系列",NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NEWTV怡伴健康.png" group-title="NewTV系列",NewTV怡伴健康
 http://39.135.55.105:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV惊悚悬疑.png" group-title="NewTV系列",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV惊悚悬疑.png" group-title="NewTV系列",NewTV惊悚悬疑
 http://39.135.55.105:6610/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV明星大片.png" group-title="NewTV系列",NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV明星大片.png" group-title="NewTV系列",NewTV明星大片
 http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV武博世界.png" group-title="NewTV系列",NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV武博世界.png" group-title="NewTV系列",NewTV武搏世界
 http://39.135.55.105:6610/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV潮妈辣婆.png" group-title="NewTV系列",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV潮妈辣婆.png" group-title="NewTV系列",NewTV潮妈辣婆
 http://39.135.55.105:6610/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV爱情喜剧.png" group-title="NewTV系列",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV爱情喜剧.png" group-title="NewTV系列",NewTV爱情喜剧
 http://39.135.55.105:6610/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品体育.png" group-title="NewTV系列",NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV精品体育.png" group-title="NewTV系列",NewTV精品体育
 http://39.135.55.105:6610/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品大剧.png" group-title="NewTV系列",NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV精品大剧.png" group-title="NewTV系列",NewTV精品大剧
 http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV精品记录.png" group-title="NewTV系列",NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV精品记录.png" group-title="NewTV系列",NewTV精品纪录
 http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV金牌综艺.png" group-title="NewTV系列",NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/NewTV金牌综艺.png" group-title="NewTV系列",NewTV金牌综艺
 http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
 
 
@@ -264,7 +265,7 @@ http://192.168.2.4:1231/rtp/225.0.4.190:7980
 http://192.168.2.4:1231/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV娱乐高清
 http://192.168.2.4:1231/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/重庆汽摩频道.png" group-title="重庆本地",CQTV汽摩高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/重庆汽摩频道.png" group-title="重庆本地",CQTV汽摩高清
 http://192.168.2.4:1231/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV时尚高清
 http://192.168.2.4:1231/rtp/225.0.4.196:7980
