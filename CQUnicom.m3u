@@ -65,8 +65,6 @@ http://192.168.2.4:1231/rtp/225.0.4.220:7980
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://192.168.2.4:1231/rtp/225.0.4.179:7980
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视",上视全纪实
-http://192.168.2.4:1231/rtp/225.0.4.113:7980
 
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视",重庆卫视
 http://192.168.2.4:1231/rtp/225.0.4.187:7980
