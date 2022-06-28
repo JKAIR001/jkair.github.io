@@ -52,15 +52,15 @@ http://192.168.2.4:1231/rtp/225.0.4.131:7980
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
 http://192.168.2.4:1231/rtp/225.0.4.130:7980
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://192.168.2.4:1231/rtp/225.0.4.7:7980
+http://192.168.2.4:1231/rtp/225.0.4.218:7980
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://192.168.2.4:1231/rtp/225.0.4.129:7980
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://192.168.2.4:1231/rtp/225.0.4.9:7980
+http://192.168.2.4:1231/rtp/225.0.4.219:7980
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://192.168.2.4:1231/rtp/225.0.4.128:7980
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://192.168.2.4:1231/rtp/225.0.4.11:7980
+http://192.168.2.4:1231/rtp/225.0.4.220:7980
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
@@ -83,9 +83,9 @@ http://192.168.2.4:1231/rtp/225.0.4.79:7980
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://192.168.2.4:1231/rtp/225.0.4.81:7980
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
-http://192.168.2.4:1231/rtp/225.0.4.27:7980
+http://192.168.2.4:1231/rtp/225.0.4.202:7980
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方卫视",湖北卫视
-http://192.168.2.4:1231/rtp/225.0.4.28:7980
+http://192.168.2.4:1231/rtp/225.0.4.217:7980
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
 http://192.168.2.4:1231/rtp/225.0.4.24:7980
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视",贵州卫视
@@ -121,11 +121,11 @@ http://192.168.2.4:1231/rtp/225.0.4.44:7980
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="地方卫视",吉林卫视
 http://192.168.2.4:1231/rtp/225.0.4.35:7980
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
-http://192.168.2.4:1231/rtp/225.0.4.25:7980
+http://192.168.2.4:1231/rtp/225.0.4.203:7980
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="地方卫视",海南卫视
-http://192.168.2.4:1231/rtp/225.0.4.40:7980
+http://192.168.2.4:1231/rtp/225.0.4.216:7980
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视
-http://192.168.2.4:1231/rtp/225.0.4.23:7980
+http://192.168.2.4:1231/rtp/225.0.4.201:7980
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
 http://192.168.2.4:1231/rtp/225.0.4.39:7980
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="地方卫视",西藏卫视
@@ -263,19 +263,20 @@ http://192.168.2.4:1231/rtp/225.0.4.189:7980
 http://192.168.2.4:1231/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV科教高清
 http://192.168.2.4:1231/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV都市高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV社会与法高清
 http://192.168.2.4:1231/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV少儿高清
 http://192.168.2.4:1231/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV娱乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV文体娱乐高清
 http://192.168.2.4:1231/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/JKAIR001/iptvlogo@main/重庆汽摩频道.png" group-title="重庆本地",CQTV汽摩高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV汽摩高清
 http://192.168.2.4:1231/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV时尚高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV生活时尚高清
 http://192.168.2.4:1231/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV购物高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV时尚购物高清
 http://192.168.2.4:1231/rtp/225.0.4.198:7980
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆本地",CQTV移动高清
+http://192.168.2.4:1231/rtp/225.0.4.215:7980
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通其他",热播剧场
 http://192.168.2.4:1231/rtp/225.0.4.47:7980
