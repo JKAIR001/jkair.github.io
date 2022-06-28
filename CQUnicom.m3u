@@ -122,7 +122,7 @@ http://192.168.2.4:1231/rtp/225.0.4.44:7980
 http://192.168.2.4:1231/rtp/225.0.4.35:7980
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
 http://192.168.2.4:1231/rtp/225.0.4.203:7980
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="地方卫视",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="地方卫视",海南卫视
 http://192.168.2.4:1231/rtp/225.0.4.216:7980
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视
 http://192.168.2.4:1231/rtp/225.0.4.201:7980
