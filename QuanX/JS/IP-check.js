@@ -11,8 +11,7 @@ let url = "https://api.ip.sb/geoip"
 $httpClient.get(url, function(error, response, data){
     let jsonData = JSON.parse(data)
     let country = jsonData.country
-    let emoji = getFlagEmoji(jsonData.country_code
-)
+    let emoji = getFlagEmoji(jsonData.country_code)
     let city = jsonData.city
     let isp = jsonData.isp
     let ip = jsonData.ip
