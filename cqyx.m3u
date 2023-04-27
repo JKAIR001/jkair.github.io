@@ -131,7 +131,7 @@ http://192.168.2.3:5678/cqyx.php?id=mlzqHD
 http://192.168.2.3:5678/cqyx.php?id=fyjcHD
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录高清
 http://192.168.2.3:5678/cqyx.php?id=qsjlHD
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="其他",兵器科技高清
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="其他",兵器科技高清
 http://192.168.2.3:5678/cqyx.php?id=bqkjHD
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云高清
 http://192.168.2.3:5678/cqyx.php?id=yxfyHD
