@@ -3,6 +3,10 @@
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",group-title="4K",欢笑剧场4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?
+#EXTINF:-1 tvg-name="北京卫视4K 50帧" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png",group-title="4K",北京卫视4K 50帧
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426#00000001000000050000000000000634
+#EXTINF:-1 tvg-name="北京卫视4K 25帧" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png",group-title="4K",北京卫视4K 25帧
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000425#00000001000000050000000000000633
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="央视",CCTV-2
@@ -149,6 +153,8 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000371?
 #EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png",group-title="卫视",重庆移动
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png",group-title="娱乐",中国交通
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000420
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",group-title="娱乐",乐游
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000276?
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png",group-title="娱乐",茶频道
