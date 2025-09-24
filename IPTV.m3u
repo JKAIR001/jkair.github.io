@@ -11,6 +11,18 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000425#00000001000
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000432?
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",group-title="4K",深圳卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000431?
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",group-title="4K",湖南卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000439?
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="4K",东方卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000436?
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",group-title="4K",江苏卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000438?
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",group-title="4K",浙江卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000437?
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",group-title="4K",山东卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000440?
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",group-title="4K",四川卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000441?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="央视",CCTV-2
