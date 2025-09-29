@@ -9,7 +9,7 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426#00000001000
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000425#00000001000000050000000000000633
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png",group-title="4K",广东卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000432?
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",group-title="4K",深圳卫视4K
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png",group-title="4K",深圳卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000431?
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",group-title="4K",湖南卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000439?
