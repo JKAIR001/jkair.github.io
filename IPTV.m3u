@@ -91,8 +91,8 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?
 #EXTINF:-1 tvg-name="贵州卫视HD" tvg-logo="https://live.fanmingming.com/tv/贵州卫视HD.png",group-title="卫视",贵州卫视HD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",group-title="卫视",云南卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?
+#EXTINF:-1 tvg-name="云南卫视HD" tvg-logo="https://live.fanmingming.com/tv/云南卫视HD.png",group-title="卫视",云南卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000443?
 #EXTINF:-1 tvg-name="浙江卫视HD" tvg-logo="https://live.fanmingming.com/tv/浙江卫视HD.png",group-title="卫视",浙江卫视HD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?
 #EXTINF:-1 tvg-name="江苏卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视HD.png",group-title="卫视",江苏卫视HD
@@ -131,20 +131,20 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?
 #EXTINF:-1 tvg-name="江西卫视HD" tvg-logo="https://live.fanmingming.com/tv/江西卫视HD.png",group-title="卫视",江西卫视HD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",group-title="卫视",陕西卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000189?
+#EXTINF:-1 tvg-name="陕西卫视HD" tvg-logo="https://live.fanmingming.com/tv/陕西卫视HD.png",group-title="卫视",陕西卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000445?
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",group-title="卫视",山西卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000179?
 #EXTINF:-1 tvg-name="湖北卫视HD" tvg-logo="https://live.fanmingming.com/tv/湖北卫视HD.png",group-title="卫视",湖北卫视HD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",group-title="卫视",内蒙古卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000180?
+#EXTINF:-1 tvg-name="内蒙古卫视HD" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视HD.png",group-title="卫视",内蒙古卫视
+rtsp://123.147.112.17:8089/04000001/0100000000400000000000000000444?
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",group-title="卫视",青海卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",group-title="卫视",甘肃卫视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000429?
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",group-title="卫视",宁夏卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000194?
+#EXTINF:-1 tvg-name="宁夏卫视HD" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视HD.png",group-title="卫视",宁夏卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000442?
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",group-title="卫视",新疆卫视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000433?
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",group-title="卫视",西藏卫视
