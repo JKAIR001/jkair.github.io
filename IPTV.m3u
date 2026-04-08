@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",group-title="4K",爱上4K
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",group-title="4K",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/多彩文体4K.png",group-title="4K",多彩文体4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?
 #EXTINF:-1 tvg-name="北京卫视4K 50帧" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png",group-title="4K",北京卫视4K 50帧
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426#00000001000000050000000000000634
