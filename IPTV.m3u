@@ -25,8 +25,6 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000440?
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000441?
 #EXTINF:-1 catchup="default" catchup-source="rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="央视",CCTV-2
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",group-title="央视",CCTV-3
