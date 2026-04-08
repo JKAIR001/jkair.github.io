@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",group-title="4K",爱上4K
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/多彩文体4K.png",group-title="4K",多彩文体4K
@@ -23,6 +23,8 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000437?
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000440?
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",group-title="4K",四川卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000441?
+#EXTINF:-1 catchup="default" catchup-source="rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="央视",CCTV-2
