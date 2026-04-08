@@ -138,7 +138,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000179?
 #EXTINF:-1 tvg-name="湖北卫视HD" tvg-logo="https://live.fanmingming.com/tv/湖北卫视HD.png",group-title="卫视",湖北卫视HD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?
 #EXTINF:-1 tvg-name="内蒙古卫视HD" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视HD.png",group-title="卫视",内蒙古卫视
-rtsp://123.147.112.17:8089/04000001/0100000000400000000000000000444?
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000444?
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",group-title="卫视",青海卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",group-title="卫视",甘肃卫视
