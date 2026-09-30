@@ -46,7 +46,7 @@ http://192.168.2.3:5140/rtp/225.0.4.137:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",group-title="央视",CCTV-9
 http://192.168.2.3:5140/rtp/225.0.4.131:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",group-title="央视",CCTV-10
-http://192.168.2.3:5140/rtp/225.0.4.131:7980?fcc=123.147.117.148:15970
+http://192.168.2.3:5140/rtp/225.0.4.130:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",group-title="央视",CCTV-11
 http://192.168.2.3:5140/rtp/225.0.4.218:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",group-title="央视",CCTV-12
