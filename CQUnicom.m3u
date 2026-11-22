@@ -25,6 +25,16 @@ http://192.168.2.3:5140/rtp/225.0.4.105:7980?fcc=123.147.117.148:15970
 http://192.168.2.3:5140/rtp/225.0.4.106:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",group-title="4K",四川卫视4K
 http://192.168.2.3:5140/rtp/225.0.4.108:7980?fcc=123.147.117.148:15970
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="重庆卫视4K" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",group-title="4K",重庆卫视4K
+http://192.168.2.3:5140/rtp/225.0.4.116:7980?fcc=123.147.117.148:15970
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="贵州卫视4K" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",group-title="4K",贵州卫视4K
+http://192.168.2.3:5140/rtp/225.0.4.114:7980?fcc=123.147.117.148:15970
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="天津卫视4K" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",group-title="4K",天津卫视4K
+http://192.168.2.3:5140/rtp/225.0.4.118:7980?fcc=123.147.117.148:15970
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="江西卫视4K" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",group-title="4K",江西卫视4K
+http://192.168.2.3:5140/rtp/225.0.4.117:7980?fcc=123.147.117.148:15970
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="辽宁卫视4K" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",group-title="4K",辽宁卫视4K
+http://192.168.2.3:5140/rtp/225.0.4.115:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="央视",CCTV-1
 http://192.168.2.3:5140/rtp/225.0.4.74:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="央视",CCTV-2
